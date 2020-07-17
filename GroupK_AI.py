@@ -135,7 +135,7 @@ def run_ai():
     Then it repeatedly receives the current score and current board state
     until the game is over. 
     """
-    print("Minimax AI") # First line is the name of this AI  
+    print("KBOT AI") # First line is the name of this AI  
     color = int(input()) # Then we read the color: 1 for dark (goes first), 
                          # 2 for light. 
 
